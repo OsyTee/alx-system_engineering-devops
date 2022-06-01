@@ -1,4 +1,4 @@
 #!/bin/bash
-sort | uniq -u
+cat list | sort | uniq -u | pr | lpr
 
 
