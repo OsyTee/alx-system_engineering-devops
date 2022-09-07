@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((export(BREADTH**LOVE)))
+echo $(((export BREADTH)**(export LOVE)))
