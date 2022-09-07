@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(((export BREADTH)**(export LOVE)))
+echo $((env($BREADTH**$LOVE)))
